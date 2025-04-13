@@ -6,10 +6,10 @@
 
 ---
 
-## 👨‍💻 Tentang Saya  
-- 🌱 Sedang meniti jalan jadi **Web Developer**  
-- 👀 Tertarik banget sama **Web 3.0**, Blockchain & Decentralized Apps  
-- 🎨 Hobi ngulik teknologi baru dan bangun project kecil-kecilan  
+## 👨‍💻 About Me  
+- 🌱 Currently on the journey to becoming a **Web Developer**  
+- 👀 Extremely passionate about **Web 3.0**, Blockchain & Decentralized Apps  
+- 🎨 Love experimenting with new technologies and building small projects  
 
 ---
 
@@ -33,16 +33,9 @@
 
 ---
 
-## 🏆 Pencapaian
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohmat-supri&theme=juicyfresh&column=3&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Kontak  
-- 📧 [rohmats009@example.com](mailto:rohmats009@example.com)
+## 📫 Contact  
+- 📧 [rohmats009@example.com](mailto:rohmats009@example.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohmat-supriyadi-848877124/)
 
 ---
