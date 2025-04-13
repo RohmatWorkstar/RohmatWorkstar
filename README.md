@@ -1,7 +1,7 @@
-# 🌌 RohmatWorkstar
+# 🌌 Rohmat Supriyadi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+RohmatWorkstar!;Web+3.0+Enthusiast;Future+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Rohmat_Supriyadi!;Web+3.0+Enthusiast;Future+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohmatWorkstar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohmat_Supriyadi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
