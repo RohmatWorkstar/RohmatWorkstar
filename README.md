@@ -1,128 +1,52 @@
-<h1 align="center">🌌 Rohmat Supriyadi 🚀</h1>
+# 🌌 Rohmat Supriyadi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+Apps+Builder;Web3+Engineer;Fullstack+Developer;Building+Real+World+Systems" />
-</p>
-
-<p align="center">
-  <b>Building Intelligent & Scalable Systems</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohmat_Supriyadi!;Web+3.0+Enthusiast;Future+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-
-<div align="center">
-
-⚡ Currently on the journey to becoming a **Software Engineer**  
-⚡ Building **AI Apps, Automation Systems & Smart Platforms**  
-⚡ Focused on **Web3, Blockchain & Decentralized Systems**  
-⚡ Think in **systems, not just code**
-
-</div>
-
----
-
-## 🚀 What I’m Building  
-
-<div align="center">
-
-🔹 AI-powered applications & intelligent workflows  
-🔹 Fullstack platforms (Frontend + API + Integration)  
-🔹 Payment & system integration (real-world systems)  
-🔹 Scalable architecture for modern applications  
-
-</div>
-
----
-
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Core Languages  
-<p>
-JavaScript • TypeScript • Golang • Python
-</p>
-
-### ⚙️ Backend & API  
-<p>
-Node.js • Express.js • FastAPI • Laravel • GraphQL • KrakenD
-</p>
-
-### 🎨 Frontend  
-<p>
-React • Next.js • Nuxt.js • Tailwind CSS
-</p>
-
-### 🗄️ Database & Cache  
-<p>
-SQL • MongoDB • Redis • Firebase
-</p>
-
-### 🤖 AI & Integration  
-<p>
-AI API • Automation Systems
-</p>
-
-### ☁️ DevOps & Cloud  
-<p>
-Docker • Kubernetes • Terraform • Ansible<br/>
-AWS • GCP • Alibaba Cloud
-</p>
-
-### 🔧 Tools & Workflow  
-<p>
-Git • GitHub • GitLab • CI/CD • Agile Scrum • Trello
-</p>
+- 🌱 Currently on the journey to becoming a **Software Engginer**  
+- 👀 Extremely passionate about **Web 3.0**, Blockchain & Decentralized Apps  
+- 🎨 Love experimenting with new technologies and building projects  
 
 ---
 
 ## 💡 Quote  
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i><br/>
-  <b>— Abraham Lincoln</b>
-</p>
+> *"The best way to predict the future is to create it."*  
+> — Abraham Lincoln
 
 ---
 
-## 📫 Contact  
+## 🛠️ Tools & Tech Stack  
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Web3](https://img.shields.io/badge/Web3-23C1A8?style=for-the-badge&logo=ethereum)
 
-<p align="center">
-  📧 <a href="mailto:rohmats009@gmail.com">rohmats009@gmail.com</a><br/>
-  💼 <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">LinkedIn</a>
-</p>
+---
+
+
+## 📫 Contact  
+- 📧 [rohmats009@gmail.com](mailto:rohmats009@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohmat-supriyadi-848877124/)
 
 ---
 
 ## 🌟 Social Media  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/rohmat_supriyadi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RohmatWorkstar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://twitter.com/rohmat_supriyadi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://github.com/rohmat-supri" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"></a>
 </p>
 
 ---
 
-## 🧠 Current Focus  
-
-<p align="center">
-
-🚀 Building AI-driven platforms  
-🔗 Exploring Web3 ecosystem  
-⚙️ Developing scalable backend systems  
-📊 Creating real-world usable products  
-
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>Build Real Systems, Not Just Projects</b> ⚡
-</p>
+<p align="center">🌙 Keep Learning, Keep Building 🌙</p>
