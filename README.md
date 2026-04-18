@@ -1,44 +1,108 @@
-🌌 Rohmat Supriyadi
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Rohmat+Supriyadi+🚀;AI+Apps+Builder+%7C+Web3+Engineer;Fullstack+Developer;Building+Real+World+Systems" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=160&section=header&text=AI%20%7C%20WEB3%20%7C%20SYSTEMS&fontSize=30&fontColor=00F7FF&animation=fadeIn"/> </p>
-👨‍💻 About Me
+# 🌌 Rohmat Supriyadi  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Rohmat+Supriyadi+🚀;AI+Apps+Builder+%7C+Web3+Engineer;Fullstack+Developer;Building+Real+World+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
 <div align="center">
 
-⚡ 🌱 Currently on the journey to becoming a Software Engineer
-⚡ 🤖 Building AI Apps, Automation Systems & Smart Platforms
-⚡ 🌐 Focused on Web3, Blockchain & Decentralized Systems
-⚡ 🧠 Think in systems, not just code
+⚡ 🌱 Currently on the journey to becoming a **Software Engineer**  
+⚡ 🤖 Building **AI Apps, Automation Systems & Smart Platforms**  
+⚡ 🌐 Focused on **Web3, Blockchain & Decentralized Systems**  
+⚡ 🧠 Think in **systems, not just code**  
 
 </div>
-🚀 What I’m Building
+
+---
+
+## 🚀 What I’m Building  
+
 <div align="center">
 
-🔹 AI-powered applications & intelligent workflows
-🔹 Fullstack platforms (Frontend + API + Integration)
-🔹 Payment & system integration (real-use case apps)
-🔹 Scalable architecture for modern web apps
+🔹 AI-powered applications & intelligent workflows  
+🔹 Fullstack platforms (Frontend + API + Integration)  
+🔹 Payment & system integration (real-use case apps)  
+🔹 Scalable architecture for modern applications  
 
 </div>
-💡 Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,laravel,fastapi,git&theme=dark" />
+
+---
+
+## 💡 Quote  
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i><br/>
+  <b>— Abraham Lincoln</b>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,laravel,fastapi,git" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Web3-00F7FF?style=for-the-badge&logo=ethereum&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Builder-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-00FF9C?style=for-the-badge&logo=databricks&logoColor=black"/> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohmatWorkstar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohmatWorkstar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF" height="150"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohmatWorkstar&theme=react-dark&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&hide_border=true"/> </p>
-📫 Contact
-<p align="center"> 📧 <a href="mailto:rohmats009@gmail.com">rohmats009@gmail.com</a><br/> 💼 <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">LinkedIn</a> </p>
-🌟 Social Media
-<p align="center"> <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="https://twitter.com/rohmat_supriyadi"> <img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://github.com/RohmatWorkstar"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> </p>
-🧠 Current Focus
-<p align="center">
-
-🚀 Building AI-driven platforms
-🔗 Exploring Web3 ecosystem
-⚙️ Developing scalable backend systems
-📊 Creating real-world usable products
+<img src="https://img.shields.io/badge/Web3-00F7FF?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20Builder-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-00FF9C?style=for-the-badge&logo=databricks&logoColor=black"/>
 
 </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:000000,100:0f2027&height=120&section=footer"/> </p> <p align="center"> ⚡ <b>Build Real Systems, Not Just Projects</b> ⚡ </p>
+
+---
+
+## 📫 Contact  
+
+<p align="center">
+  📧 <a href="mailto:rohmats009@gmail.com">rohmats009@gmail.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">LinkedIn</a>
+</p>
+
+---
+
+## 🌟 Social Media  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://twitter.com/rohmat_supriyadi">
+    <img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RohmatWorkstar">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Current Focus  
+
+<p align="center">
+
+🚀 Building AI-driven platforms  
+🔗 Exploring Web3 ecosystem  
+⚙️ Developing scalable backend systems  
+📊 Creating real-world usable products  
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:000000,100:0f2027&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  ⚡ <b>Build Real Systems, Not Just Projects</b> ⚡
+</p>
