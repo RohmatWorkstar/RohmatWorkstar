@@ -1,12 +1,11 @@
 <h1 align="center">🌌 Rohmat Supriyadi 🚀</h1>
 
 <p align="center">
-  <b>AI Apps Builder | Web3 Engineer | Fullstack Developer</b><br/>
-  <i>Building Intelligent & Scalable Systems</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+Apps+Builder;Web3+Engineer;Fullstack+Developer;Building+Real+World+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <b>Building Intelligent & Scalable Systems</b>
 </p>
 
 ---
@@ -109,10 +108,6 @@ Git • GitHub • GitLab • CI/CD • Agile Scrum • Trello
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
 
 <p align="center">
   ⚡ <b>Build Real Systems, Not Just Projects</b> ⚡
