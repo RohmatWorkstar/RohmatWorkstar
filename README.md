@@ -14,10 +14,10 @@
 
 <div align="center">
 
-⚡ 🌱 Currently on the journey to becoming a **Software Engineer**  
-⚡ 🤖 Building **AI Apps, Automation Systems & Smart Platforms**  
-⚡ 🌐 Focused on **Web3, Blockchain & Decentralized Systems**  
-⚡ 🧠 Think in **systems, not just code**  
+⚡ Currently on the journey to becoming a **Software Engineer**  
+⚡ Building **AI Apps, Automation Systems & Smart Platforms**  
+⚡ Focused on **Web3, Blockchain & Decentralized Systems**  
+⚡ Think in **systems, not just code**
 
 </div>
 
@@ -39,26 +39,40 @@
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Core Languages  
-JavaScript • TypeScript • Golang • Python  
+<p>
+JavaScript • TypeScript • Golang • Python
+</p>
 
 ### ⚙️ Backend & API  
-Node.js • Express.js • FastAPI • Laravel • GraphQL • KrakenD  
+<p>
+Node.js • Express.js • FastAPI • Laravel • GraphQL • KrakenD
+</p>
 
 ### 🎨 Frontend  
-React • Next.js • Nuxt.js • Tailwind CSS  
+<p>
+React • Next.js • Nuxt.js • Tailwind CSS
+</p>
 
 ### 🗄️ Database & Cache  
-SQL • MongoDB • Redis • Firebase  
+<p>
+SQL • MongoDB • Redis • Firebase
+</p>
 
 ### 🤖 AI & Integration  
-AI API • Automation Systems  
+<p>
+AI API • Automation Systems
+</p>
 
 ### ☁️ DevOps & Cloud  
-Docker • Kubernetes • Terraform • Ansible  
-AWS • GCP • Alibaba Cloud  
+<p>
+Docker • Kubernetes • Terraform • Ansible<br/>
+AWS • GCP • Alibaba Cloud
+</p>
 
 ### 🔧 Tools & Workflow  
-Git • GitHub • GitLab • CI/CD • Agile Scrum • Trello  
+<p>
+Git • GitHub • GitLab • CI/CD • Agile Scrum • Trello
+</p>
 
 ---
 
