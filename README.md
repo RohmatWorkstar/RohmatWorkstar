@@ -1,14 +1,11 @@
-# 🌌 Rohmat Supriyadi  
+<h1 align="center">🌌 Rohmat Supriyadi 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Rohmat+Supriyadi+🚀;AI+Apps+Builder+%7C+Web3+Engineer;Fullstack+Developer;Building+Real+World+Systems" />
+  <b>AI Apps Builder | Web3 Engineer | Fullstack Developer</b><br/>
+  <i>Building Intelligent & Scalable Systems</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
-</p>
-
----
+<hr/>
 
 ## 👨‍💻 About Me  
 
@@ -53,9 +50,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Web3-00F7FF?style=for-the-badge&logo=ethereum&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI%20Builder-FF00FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-00FF9C?style=for-the-badge&logo=databricks&logoColor=black"/>
+<img src="https://img.shields.io/badge/Web3-23C1A8?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Builder-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge"/>
 
 </p>
 
@@ -74,13 +71,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohmat-supriyadi-848877124/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/rohmat_supriyadi">
-    <img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/RohmatWorkstar">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -98,10 +95,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:000000,100:0f2027&height=120&section=footer"/>
-</p>
 
 <p align="center">
   ⚡ <b>Build Real Systems, Not Just Projects</b> ⚡
