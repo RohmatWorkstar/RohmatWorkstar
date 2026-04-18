@@ -26,10 +26,36 @@
 
 🔹 AI-powered applications & intelligent workflows  
 🔹 Fullstack platforms (Frontend + API + Integration)  
-🔹 Payment & system integration (real-use case apps)  
+🔹 Payment & system integration (real-world systems)  
 🔹 Scalable architecture for modern applications  
 
 </div>
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Core Languages  
+JavaScript • TypeScript • Golang • Python  
+
+### ⚙️ Backend & API  
+Node.js • Express.js • FastAPI • Laravel • GraphQL • KrakenD  
+
+### 🎨 Frontend  
+React • Next.js • Nuxt.js • Tailwind CSS  
+
+### 🗄️ Database & Cache  
+SQL • MongoDB • Redis • Firebase  
+
+### 🤖 AI & Integration  
+AI API • Automation Systems  
+
+### ☁️ DevOps & Cloud  
+Docker • Kubernetes • Terraform • Ansible  
+AWS • GCP • Alibaba Cloud  
+
+### 🔧 Tools & Workflow  
+Git • GitHub • GitLab • CI/CD • Agile Scrum • Trello  
 
 ---
 
@@ -38,22 +64,6 @@
 <p align="center">
   <i>"The best way to predict the future is to create it."</i><br/>
   <b>— Abraham Lincoln</b>
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,laravel,fastapi,git" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Web3-23C1A8?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Builder-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-4CAF50?style=for-the-badge"/>
-
 </p>
 
 ---
